@@ -8,7 +8,6 @@ import {
   removeFromFavorite,
 } from "../../../redux/actions/favoriteActions";
 import CommonButton from "../buttons/CommonButton";
-// import Img from "../../../assets/cocktail.jpg";
 
 const CocktailCard = ({
   item,

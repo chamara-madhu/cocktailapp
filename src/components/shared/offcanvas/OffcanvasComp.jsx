@@ -1,4 +1,4 @@
-import React, { FC, ReactNode } from "react";
+import React from "react";
 import { Offcanvas } from "react-bootstrap";
 
 const OffcanvasComp = ({
