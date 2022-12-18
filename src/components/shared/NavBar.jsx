@@ -3,7 +3,6 @@ import { Container, Navbar, Nav } from "react-bootstrap";
 import { AiOutlineHeart } from "react-icons/ai";
 import FavoriteCard from "./cards/FavoriteCard";
 import OffcanvasComp from "./offcanvas/OffcanvasComp";
-// import Img from "../../assets/cocktail.jpg";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import { getAllFavorites } from "../../redux/actions/favoriteActions";

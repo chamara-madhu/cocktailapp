@@ -8,7 +8,7 @@
     width: 50px;
     height: 50px;
     border-radius: 8px;
-    border: 1px solid #ccc;
+    border: 1px solid $colorCCCCCC;
     object-fit: contain;
     margin-right: 10px;
   }
@@ -21,7 +21,7 @@
     cursor: pointer;
 
     &:hover {
-      color: red;
+      color: $colorFF0000;
     }
   }
 }
